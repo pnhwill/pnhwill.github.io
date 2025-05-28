@@ -1,2 +1,3 @@
 # pnhwill.github.io
-i know html (how to meet ladies)
+
+My personal portfolio webpage.
